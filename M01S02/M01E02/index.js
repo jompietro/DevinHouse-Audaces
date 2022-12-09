@@ -9,6 +9,11 @@
 // Realize o commit do exercício resolvido.
 
 var idade = prompt('Digite a idade');
-if (idade <= 15) alert('jovem');
-else if (idade > 15 && idade <= 64) alert('Adulto');
-else if (idade > 64) alert('Idoso');
+
+if (idade >=0 && idade <=15) {
+alert('jovem');
+} else if (idade > 15 && idade <= 64) {
+alert('Adulto');
+} else if {
+(idade > 64) alert('Idoso');
+}
