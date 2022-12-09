@@ -10,10 +10,10 @@
 
 var idade = parseInt(prompt('Digite a idade'));
 
-if (idade >=0 && idade <= 15) {
-alert('jovem');
+if (idade >= 0 && idade <= 15) {
+  alert('jovem');
 } else if (idade >= 15 && idade <= 64) {
-alert('Adulto');
-} else if {
-(idade >= 65) alert('Idoso');
+  alert('Adulto');
+} else if (idade >= 65) {
+  alert('Idoso');
 }
