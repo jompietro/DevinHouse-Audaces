@@ -1,0 +1,11 @@
+* {
+  background-color: aquamarine;
+}
+
+.jumbotron {
+  max-height: max-content;
+}
+
+img {
+  width: 50%;
+}
