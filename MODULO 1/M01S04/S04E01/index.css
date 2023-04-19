@@ -4,6 +4,7 @@ body {
   min-height: 100vh;
   flex-direction: column;
   display: flex;
+  align-items: center;
 }
 
 main {
@@ -37,7 +38,7 @@ form {
   width: 400px;
   padding: 20px 20px;
   border: 1px solid rgb(64, 64, 64);
-  border-radius: 1em;
+  border-radius: 0.5em;
 }
 
 form div + div {
@@ -73,6 +74,6 @@ textarea {
 
 footer {
   font-family: tahoma;
-  font-size: 10px;
+  font-size: 7px;
   padding: 20px 20px;
 }

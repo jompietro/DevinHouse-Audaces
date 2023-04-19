@@ -1,0 +1,15 @@
+/Users/joaopietro/Documents/DevInHouse/Csharp/meuPrimeiroPrograma/bin/Debug/net7.0/meuPrimeiroPrograma
+/Users/joaopietro/Documents/DevInHouse/Csharp/meuPrimeiroPrograma/bin/Debug/net7.0/meuPrimeiroPrograma.deps.json
+/Users/joaopietro/Documents/DevInHouse/Csharp/meuPrimeiroPrograma/bin/Debug/net7.0/meuPrimeiroPrograma.runtimeconfig.json
+/Users/joaopietro/Documents/DevInHouse/Csharp/meuPrimeiroPrograma/bin/Debug/net7.0/meuPrimeiroPrograma.dll
+/Users/joaopietro/Documents/DevInHouse/Csharp/meuPrimeiroPrograma/bin/Debug/net7.0/meuPrimeiroPrograma.pdb
+/Users/joaopietro/Documents/DevInHouse/Csharp/meuPrimeiroPrograma/obj/Debug/net7.0/meuPrimeiroPrograma.csproj.AssemblyReference.cache
+/Users/joaopietro/Documents/DevInHouse/Csharp/meuPrimeiroPrograma/obj/Debug/net7.0/meuPrimeiroPrograma.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joaopietro/Documents/DevInHouse/Csharp/meuPrimeiroPrograma/obj/Debug/net7.0/meuPrimeiroPrograma.AssemblyInfoInputs.cache
+/Users/joaopietro/Documents/DevInHouse/Csharp/meuPrimeiroPrograma/obj/Debug/net7.0/meuPrimeiroPrograma.AssemblyInfo.cs
+/Users/joaopietro/Documents/DevInHouse/Csharp/meuPrimeiroPrograma/obj/Debug/net7.0/meuPrimeiroPrograma.csproj.CoreCompileInputs.cache
+/Users/joaopietro/Documents/DevInHouse/Csharp/meuPrimeiroPrograma/obj/Debug/net7.0/meuPrimeiroPrograma.dll
+/Users/joaopietro/Documents/DevInHouse/Csharp/meuPrimeiroPrograma/obj/Debug/net7.0/refint/meuPrimeiroPrograma.dll
+/Users/joaopietro/Documents/DevInHouse/Csharp/meuPrimeiroPrograma/obj/Debug/net7.0/meuPrimeiroPrograma.pdb
+/Users/joaopietro/Documents/DevInHouse/Csharp/meuPrimeiroPrograma/obj/Debug/net7.0/meuPrimeiroPrograma.genruntimeconfig.cache
+/Users/joaopietro/Documents/DevInHouse/Csharp/meuPrimeiroPrograma/obj/Debug/net7.0/ref/meuPrimeiroPrograma.dll
