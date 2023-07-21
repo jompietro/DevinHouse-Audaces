@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilmeApiCodeFirst", "FilmeApiCodeFirst\FilmeApiCodeFirst.csproj", "{3FF3C4F0-1311-4D8B-8373-834B4C3AD5E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiDatabaseFirst", "WebApiDatabaseFirst\WebApiDatabaseFirst.csproj", "{0A7F5E30-80B0-4086-9479-8C69868EB4CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FF3C4F0-1311-4D8B-8373-834B4C3AD5E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FF3C4F0-1311-4D8B-8373-834B4C3AD5E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FF3C4F0-1311-4D8B-8373-834B4C3AD5E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FF3C4F0-1311-4D8B-8373-834B4C3AD5E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A7F5E30-80B0-4086-9479-8C69868EB4CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A7F5E30-80B0-4086-9479-8C69868EB4CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A7F5E30-80B0-4086-9479-8C69868EB4CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A7F5E30-80B0-4086-9479-8C69868EB4CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E13ED612-580A-466F-8258-4A5BD598B29B}
+	EndGlobalSection
+EndGlobal
