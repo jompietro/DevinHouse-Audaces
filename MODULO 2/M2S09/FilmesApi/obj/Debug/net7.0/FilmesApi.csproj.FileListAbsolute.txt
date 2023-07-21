@@ -1,0 +1,7 @@
+C:\Users\aless\Audaces_2\M2S09\FilmesApi\obj\Debug\net7.0\FilmesApi.csproj.AssemblyReference.cache
+C:\Users\aless\Audaces_2\M2S09\FilmesApi\obj\Debug\net7.0\FilmesApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aless\Audaces_2\M2S09\FilmesApi\obj\Debug\net7.0\FilmesApi.AssemblyInfoInputs.cache
+C:\Users\aless\Audaces_2\M2S09\FilmesApi\obj\Debug\net7.0\FilmesApi.AssemblyInfo.cs
+C:\Users\aless\Audaces_2\M2S09\FilmesApi\obj\Debug\net7.0\FilmesApi.csproj.CoreCompileInputs.cache
+C:\Users\aless\Audaces_2\M2S09\FilmesApi\obj\Debug\net7.0\FilmesApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\aless\Audaces_2\M2S09\FilmesApi\obj\Debug\net7.0\FilmesApi.MvcApplicationPartsAssemblyInfo.cache
